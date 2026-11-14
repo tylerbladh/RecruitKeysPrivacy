@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "folders": [
     {
       "id": "A1000000-0000-4000-8000-000000000001",
@@ -8,7 +8,7 @@
       "messages": [
         {
           "id": "B1000000-0000-4000-8000-000000000001",
-          "title": "Example introduction",
+          "title": "Updated introduction",
           "body": "Hi! Would you be open to hearing about our summer sales team?"
         }
       ]
