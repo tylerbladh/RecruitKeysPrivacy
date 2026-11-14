@@ -116,6 +116,48 @@
           "body": "Hey ___! Its been a while! Random question... I am putting together my own sales team this next summer. Do you know anyone that might be interested in hearing about it? Helps me out a ton"
         }
       ]
+    },
+    {
+      "id": "A1000000-0000-4000-8000-000000000004",
+      "name": "Follow-Ups",
+      "emoji": "🔄",
+      "messages": [
+        {
+          "id": "B1000000-0000-4000-8000-000000000021",
+          "title": "Quick bump",
+          "body": "Hey ___! Just wanted to bump this in case it got buried. You open to hearing more?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000022",
+          "title": "Still figuring it out?",
+          "body": "Hey ___! Are you still figuring out what you’re doing next summer?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000023",
+          "title": "Busy week",
+          "body": "Hey ___! Figured you might’ve had a busy week. Still open to chatting about next summer?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000024",
+          "title": "After initial interest",
+          "body": "Hey ___! You mentioned you’d be open to hearing more. Still want to find a time to talk?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000025",
+          "title": "Already committed?",
+          "body": "Hey ___! Have you already committed to something for next summer or are you still looking at options?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000026",
+          "title": "Close the loop",
+          "body": "Hey ___! Just checking one last time. If it’s not something you’re interested in, no worries at all!"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000027",
+          "title": "Leave it open",
+          "body": "Hey ___! I’ll leave it here for now, but if you want to hear about next summer down the road just reach out!"
+        }
+      ]
     }
   ]
 }
