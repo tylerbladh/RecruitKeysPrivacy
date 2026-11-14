@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "folders": [
     {
       "id": "A1000000-0000-4000-8000-000000000001",
@@ -77,6 +77,43 @@
           "id": "B1000000-0000-4000-8000-000000000014",
           "title": "Sales experience",
           "body": "Hey ___! Saw you’ve worked in sales before. I’m sure you get lots of recruiting DMs and might have a commitment somewhere. I've learned it never hurts to compare options, and we are looking for people who are looking for leadership opportunities. If there was a way to improve your deal, would you be open to chatting?"
+        }
+      ]
+    },
+    {
+      "id": "A1000000-0000-4000-8000-000000000003",
+      "name": "Referrals",
+      "emoji": "🌟",
+      "messages": [
+        {
+          "id": "B1000000-0000-4000-8000-000000000015",
+          "title": "Anyone come to mind?",
+          "body": "No worries at all! Do you know anyone who might be interested in doing something like this over the summer?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000016",
+          "title": "Looking for work",
+          "body": "Totally understand! Do you have any friends looking for work next summer that you think I should talk to?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000017",
+          "title": "Someone you’d recommend",
+          "body": "No worries! Is there anyone you’d recommend I reach out to? I’m still looking for a few people for the team."
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000018",
+          "title": "Not asking you to come",
+          "body": "Hey ___! I know you’ve got your own thing going on, but I wanted to see if you know anyone looking for work next summer. I’m building my sales team in Southern California."
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000019",
+          "title": "You might know someone",
+          "body": "Hey ___! I’m putting together my sales team for next summer in Southern California. Figured you might know someone who’d be interested. Anyone you know come to mind?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000020",
+          "title": "Been a while",
+          "body": "Hey ___! Its been a while! Random question... I am putting together my own sales team this next summer. Do you know anyone that might be interested in hearing about it? Helps me out a ton"
         }
       ]
     }
