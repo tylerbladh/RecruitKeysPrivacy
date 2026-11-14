@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "folders": [
     {
       "id": "A1000000-0000-4000-8000-000000000001",
@@ -35,6 +35,48 @@
           "id": "B1000000-0000-4000-8000-000000000007",
           "title": "The vet",
           "body": "I'm not sure if you saw some of my posts over the summer but made [your actual earnings] and had a blast in Southern California. I'd love to chat with you because I'm building my own team for next summer and I think you would kill it with us. Would you be free later this week to chat?"
+        }
+      ]
+    },
+    {
+      "id": "A1000000-0000-4000-8000-000000000002",
+      "name": "Cold DMs",
+      "emoji": "❄️",
+      "messages": [
+        {
+          "id": "B1000000-0000-4000-8000-000000000008",
+          "title": "Business account",
+          "body": "Hey ___, I saw you follow ___ business. I’m putting together a small sales team this summer in Southern California. Average rookie makes 25k+ in 3 months. Would you be open to hearing more about it?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000009",
+          "title": "Plans next summer?",
+          "body": "Hey ___, I saw you follow ___ business. What are your plans this summer?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000010",
+          "title": "Athlete",
+          "body": "Hey ___! Saw you play ___ at ___. I’m building a summer sales team and looking to connect with athletes who might be interested. You open to hearing about it?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000011",
+          "title": "Specific post",
+          "body": "Hey ___! Saw your post about ___ and wanted to connect. I run a summer sales team in Southern California. Have you ever looked into something like that?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000012",
+          "title": "School outreach",
+          "body": "Hey ___! I’m reaching out to students at ___ about summer work with my sales team. Are you still looking at options for next summer?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000013",
+          "title": "Call invite",
+          "body": "Hey ___! I’m recruiting for a summer sales team in Southern California. If you’re open to exploring it, do you have a few minutes to talk this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000014",
+          "title": "Sales experience",
+          "body": "Hey ___! Saw you’ve worked in sales before. I’m sure you get lots of recruiting DMs and might have a commitment somewhere. I've learned it never hurts to compare options, and we are looking for people who are looking for leadership opportunities. If there was a way to improve your deal, would you be open to chatting?"
         }
       ]
     }
