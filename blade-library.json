@@ -1,15 +1,40 @@
 {
-  "version": 2,
+  "version": 3,
   "folders": [
     {
       "id": "A1000000-0000-4000-8000-000000000001",
-      "name": "First Meetings",
+      "name": "Inner Circle - Close Friend",
       "emoji": "🤝",
       "messages": [
         {
-          "id": "B1000000-0000-4000-8000-000000000001",
-          "title": "Updated introduction",
-          "body": "Hi! Would you be open to hearing about our summer sales team?"
+          "id": "B1000000-0000-4000-8000-000000000002",
+          "title": "top of my list",
+          "body": "Dude, I made a list of people I'd actually want on my team and you're near the top. I don't know if it'll be a fit, but you should at least come see what I'm doing. Even if it's not for you — let's trade ideas. You free this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000003",
+          "title": "Thought of you",
+          "body": "Dude, I’m putting together my team for next summer and thought of you. I think we’d have a blast working together. You open to hearing what it looks like?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000004",
+          "title": "Friendship first",
+          "body": "Hey ___ I wanna throw an idea your way.  I’d love to catch up with you, are you free later this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000005",
+          "title": "Plans?",
+          "body": "___ its been a min! What are your plans for next summer?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000006",
+          "title": "Before you decide",
+          "body": "Dude, I don’t know what you’ve got lined up for next summer, but before you decide we should chat. You free later this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000007",
+          "title": "The vet",
+          "body": "I'm not sure if you saw some of my posts over the summer but made [your actual earnings] and had a blast in Southern California. I'd love to chat with you because I'm building my own team for next summer and I think you would kill it with us. Would you be free later this week to chat?"
         }
       ]
     }
