@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "folders": [
     {
       "id": "A1000000-0000-4000-8000-000000000001",
@@ -156,6 +156,85 @@
           "id": "B1000000-0000-4000-8000-000000000027",
           "title": "Leave it open",
           "body": "Hey ___! I’ll leave it here for now, but if you want to hear about next summer down the road just reach out!"
+        }
+      ]
+    },
+    {
+      "id": "A1000000-0000-4000-8000-000000000005",
+      "name": "Replies",
+      "emoji": "💬",
+      "messages": [
+        {
+          "id": "B1000000-0000-4000-8000-000000000028",
+          "title": "I’m interested",
+          "body": "Sweet! Let’s find a time to talk so I can walk you through it and hear what you’re looking for. Does ___ or ___ work better?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000029",
+          "title": "Yeah, tell me more",
+          "body": "For sure! It’s door-to-door pest control sales in Southern California over the summer. Rather than send you a whole essay, you free for a quick call this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000030",
+          "title": "What is it?",
+          "body": "It’s summer sales! We sell pest control in Southern California. Have you ever done sales before?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000031",
+          "title": "Send me some info",
+          "body": "For sure! We spend the summer in Southern California selling pest control door to door. It’s commission based and we train you. What would you want to know first?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000032",
+          "title": "Move to a call",
+          "body": "I’ve got a few things I want to ask you too so we can see if it makes sense. You have 10–15 minutes to talk sometime this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000033",
+          "title": "Questions about details",
+          "body": "Good question! Tyler handles that stuff for our team and can explain it better than I can. You cool if I put us in a group chat?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000034",
+          "title": "Simple introduction",
+          "body": "Sweet! Let me throw us in a group chat with my manager Tyler. He can walk you through everything and we can find a time to talk. You cool with that?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000035",
+          "title": "New to the team",
+          "body": "I’m still learning everything myself so I wanna get you connected with Tyler who’s running our team. You cool if I make a group chat with us?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000036",
+          "title": "Move from Instagram",
+          "body": "You cool if I start a group text with you and my manager Tyler? What's your number?"
+        }
+      ]
+    },
+    {
+      "id": "A1000000-0000-4000-8000-000000000006",
+      "name": "Group Chat",
+      "emoji": "👥",
+      "messages": [
+        {
+          "id": "B1000000-0000-4000-8000-000000000037",
+          "title": "Basic handoff",
+          "body": "[MANAGER] this is ___! I’ve been talking about next summer and they’re interested in hearing more. ___, [MANAGER] runs our team in Southern California."
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000038",
+          "title": "Give some context",
+          "body": "[MANAGER] meet ___! We know each other through ___ and they’re looking at options for next summer. Figured I’d get us connected so we can find a time to talk!"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000039",
+          "title": "Friend introduction",
+          "body": "[MANAGER] this is my buddy ___! I was telling him about next summer and wanted you guys to meet. When would work for us to hop on a call?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000040",
+          "title": "Bring over their question",
+          "body": "Hey [MANAGER]! ___ was asking about ___ so I wanted to get us all connected. Can you help walk us through it?"
         }
       ]
     }
