@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "folders": [
     {
       "id": "A1000000-0000-4000-8000-000000000001",
@@ -235,6 +235,43 @@
           "id": "B1000000-0000-4000-8000-000000000040",
           "title": "Bring over their question",
           "body": "Hey [MANAGER]! ___ was asking about ___ so I wanted to get us all connected. Can you help walk us through it?"
+        }
+      ]
+    },
+    {
+      "id": "A1000000-0000-4000-8000-000000000007",
+      "name": "Objections",
+      "emoji": "🙋",
+      "messages": [
+        {
+          "id": "B1000000-0000-4000-8000-000000000041",
+          "title": "I already have a job",
+          "body": "Gotcha! Are you pretty set on staying there next summer or would you be open to comparing options?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000042",
+          "title": "I want to chill this summer",
+          "body": "I get that. What would your ideal summer look like? Are you wanting the whole summer off or just more time for yourself?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000043",
+          "title": "I’ve heard bad things about summer sales",
+          "body": "Yeah there are definitely things to look out for. What have you heard?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000044",
+          "title": "Just tell me here",
+          "body": "Yeah for sure! It can be a lot of information that's why I usually talk over the phone but it’s door-to-door pest control sales in Southern California over the summer. It’s commission based and we train you. What would you want to know first?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000045",
+          "title": "What company is it?",
+          "body": "Our team is Blade and we sell pest control. I can always go into more details, are you free later this week?"
+        },
+        {
+          "id": "B1000000-0000-4000-8000-000000000046",
+          "title": "Not Interested",
+          "body": "No worries man! Is it because you already have plans or because you don't wanna get into sales?"
         }
       ]
     }
